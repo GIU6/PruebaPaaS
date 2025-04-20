@@ -5,6 +5,6 @@ app.get('/', (req, res) => {
     res.send('Hola estamos en SENATI desplegando nuestro PaaS 2025')
 });
 
-app.listen(port,() => {
-    crossOriginIsolated.log ('Aplicación escucjando en el porto $(port)');
+app.listen(port, () => {
+    console.log('Aplicacion esuchando en el puerto: ',port)
 });
