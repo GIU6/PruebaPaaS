@@ -7,8 +7,8 @@
         "start": "node app.jsp"
 
      },
-     "dependencia" :{
-     "express": "^4.12.12"
+     "dependencies" :{
+     "express": "^4.18.12"
 
     }
 }
