@@ -1,0 +1,14 @@
+{
+     "name": "azure-pass-demo",
+     "version": "1.0.0",
+     "desription": "demo de PaaS en AZU",
+     "main ": " app.js",
+     "scripts": {
+        "start": "node app.jsp"
+
+     },
+     "dependencia" :{
+     "express": "^4.12.12"
+
+    }
+}
